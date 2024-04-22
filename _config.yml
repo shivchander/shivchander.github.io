@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "shivchander sudalairaj"
+title                    : "shivchander"
 title_separator          : "-"
-name                     : &name "shivchander sudalairaj"
+name                     : &name "shivchander"
 description              : &description "personal description"
 url                      : https://shivchander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,18 +21,18 @@ repository               : "shivchander/shivchander.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "shiv.jpg"
+  name             : "Shivchander Sudalairaj"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Engineer working on Large Language Model Alignment"
+  location         : "Boston, US"
+  employer         : "MIT-IBM Watson AI Lab"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shiv.sr@ibm.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=O71amfMAAAAJ"
   impactstory      : # URL
   orcid            : # URL
   pubmed           : # URL 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : shivchander
+  linkedin         : shivchanders
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
